@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"/Users/yuri/Desktop/BattleTank/Unreal_BattleTank/BattleTank/Saved": true,
+		"/Users/yuri/Desktop/BattleTank/Unreal_BattleTank/BattleTank/BattleTank.xcworkspace": true,
+		"/Users/yuri/Desktop/BattleTank/Unreal_BattleTank/BattleTank/Content": true,
+		"/Users/yuri/Desktop/BattleTank/Unreal_BattleTank/BattleTank/.vscode": true,
+		"/Users/yuri/Desktop/BattleTank/Unreal_BattleTank/BattleTank/Intermediate": true
+	}
+}
